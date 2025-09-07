@@ -14,3 +14,9 @@
 
 <h2>تماس با من <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/068d23a4-cfbd-4a24-b684-51e30f366077" />
 </h2>
+<a href="#">
+  <img src="https://github.com/Moeidkarimyar/Programming-Village/blob/main/icons8-instagram-94.png"/>
+</a>
+<a href="https://t.me/Programming_village">
+  <img src="https://github.com/Moeidkarimyar/Programming-Village/blob/main/icons8-telegram-96.png"/>
+</a>
